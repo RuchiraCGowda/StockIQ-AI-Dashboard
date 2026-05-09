@@ -78,7 +78,7 @@ This is not financial advice.
 
 ## 👩‍💻 About
 
-**Ruchira C Gowda**  
+**Ruchira C**  
 B.E. Computer Science Engineering · Semester 4  
 Sapthagiri NPS University · Bengaluru  
 *Data Analysis & Visualization — Mini Project 2025*
