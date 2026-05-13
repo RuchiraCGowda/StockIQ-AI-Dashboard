@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 StockIQ — AI-Powered Stock Market Intelligence Dashboard
+# 📈 StockIQ — AI-Powered Stock Market Intelligence Dashboard  
 
 **A web-based stock analysis platform that doesn't just show data — it explains what the data means.**  
 Built for beginner investors, students, and retail traders who want insights, not just charts.
