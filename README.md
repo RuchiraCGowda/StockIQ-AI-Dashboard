@@ -17,7 +17,7 @@ Built for beginner investors, students, and retail traders who want insights, no
 
 Most platforms like Zerodha or Yahoo Finance show raw numbers and charts — but give **zero explanation**.
 
-> *"RSI is 74... so what do I do?"*  
+> *"RSI is 74... so what do I do?"*    
 > *"MACD crossed over... is that good or bad?"*
 
 **StockIQ answers those questions** using Claude AI to generate plain-English insights.
