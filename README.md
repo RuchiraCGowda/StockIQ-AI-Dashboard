@@ -2,7 +2,7 @@
 
 # 📈 StockIQ — AI-Powered Stock Market Intelligence Dashboard  
 
-**A web-based stock analysis platform that doesn't just show data — it explains what the data means.**  
+**A web-based stock analysis platform that doesn't just show data — it explains what the data means.**    
 Built for beginner investors, students, and retail traders who want insights, not just charts.
 
 ![Badge](https://img.shields.io/badge/Built%20With-Claude%20AI-blue?style=for-the-badge)
